@@ -24,7 +24,11 @@ The task management app allows users to create, update, and delete tasks. Tasks 
 - 
 ### Clone the repository:
 -git clone https://github.com/khirod11/Task_management_app.git
+
 -cd task-management-app
+
 -npm install
+
 -npm start
+
 -Open http://localhost:3000 in your browser to view the app.
